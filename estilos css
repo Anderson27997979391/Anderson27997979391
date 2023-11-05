@@ -1,0 +1,20 @@
+p{
+    font-size: 24px;
+}
+
+p::firs:-letter {
+    font-size 15px;
+    display: block;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+p::firs-letter{
+   background: red;
+}
+
+p::selection {
+    background: block;
+    color: white;
+}
+            

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+        content=" width=device-width,
+        initial-scale=1.0">
+        <title>document</title>
+        <link rel="stylesheet" href="https://www.bibliaon.com/palavra_de_deus/">
+    </head>
+    
+    <body>
+        
+        <input required>
+        <div class="palavra dev-title">
+            <lu class="lista">
+                <li>Malaquias (C.1, V.16) </li>
+                Porque o Senhor, o Deus de Israel, diz que odeia o divórcio e tambem aquele que cobre de violência as suas roupas, diz o Senhor dos Exércitos. Portanto, cuidado e não sejam infiéis.
+                <br>
+                <br>
+                <li>Malaquias (C.3, V.8)</li>
+                
+                <li>item 3</li>
+            </lu>
+        </div>
+        
+    </body>
+
+

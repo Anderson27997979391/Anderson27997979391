@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content=" width=device-width,
+    initial-scale=1.0">
+    <title>document</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae hic iusto, explicabo distinctio ducimus vel labore voluptates quos ut ipsam. Laudantium, quaerat saepe. Dolore eveniet dolor qui deleniti, inventore facilis.</p>
+        
+    
+    </ul>
+    <input required>
+    <div class="pai">
+        <lu class="lista">
+            <li>item 1</li>
+            <li>item 2</li>
+            <li>item 3</li>
+        </lu>
+    </div>
+    
